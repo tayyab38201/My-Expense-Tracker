@@ -1,12 +1,17 @@
 ## 🛠️ Tech Stack
-
-- **Framework**: [Next.js 15 (App Router)](https://nextjs.org/)
-- **Library**: [React 19](https://react.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Framework**:![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+- **Library**:![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+- **Styling**:![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 - **Icons**: [Lucide React](https://lucide.dev/)
   
 This Expense Tracker Pro is a comprehensive, full-stack inspired web application built with Next.js 15 and React 19, designed to provide users with a seamless and intuitive interface for personal finance management. The project focuses on high performance, responsive design, and robust state management to help users gain complete control over their daily spending habits.
 
+Key Features 🌟
+- 📊 **Dynamic Dashboard**: Animated progress bars for category spending.
+- 🌓 **Auto Dark Mode**: Seamless theme switching.
+- 📱 **Mobile Responsive**: Perfect look on every screen size.
+  
+- 📥 **CSV Export**: Data export feature for professional use.
 Key Technical Features:
 Dynamic Data Management: The application uses React's useState and useEffect hooks to handle real-time data updates. To ensure data persistence without a backend, I implemented Local Storage integration, allowing users to close their browser and return to find their data intact.
 Smart Budgeting System: I developed a logic-based budget monitoring system. It calculates monthly totals and provides visual feedback through a progress bar that changes color based on spending thresholds, alerting users when they exceed 80% or 100% of their limit.
