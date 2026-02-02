@@ -2,7 +2,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-- **Icons**: [Lucide React](https://lucide.dev/)
+![Lucide](https://img.shields.io/badge/Lucide-React-EB5E28?style=for-the-badge&logo=lucide&logoColor=white) 
   
 This Expense Tracker Pro is a comprehensive, full-stack inspired web application built with Next.js 15 and React 19, designed to provide users with a seamless and intuitive interface for personal finance management. The project focuses on high performance, responsive design, and robust state management to help users gain complete control over their daily spending habits.
 
