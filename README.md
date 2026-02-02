@@ -10,7 +10,7 @@ Key Features 🌟
 - 📊 **Dynamic Dashboard**: Animated progress bars for category spending.
 - 🌓 **Auto Dark Mode**: Seamless theme switching.
 - 📱 **Mobile Responsive**: Perfect look on every screen size.
-  - 📥 **CSV Export**: Data export feature for professional use.
+- 📥 **CSV Export**: Data export feature for professional use.
 
      <img width="709" height="655" alt="1" src="https://github.com/user-attachments/assets/2cd5512d-5352-407b-87c5-8bc057ee2cb6" />
      <img width="1054" height="690" alt="2" src="https://github.com/user-attachments/assets/4b1f7067-3e11-44c6-9dff-85cd396f24f1" />
