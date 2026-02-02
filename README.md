@@ -10,8 +10,13 @@ Key Features 🌟
 - 📊 **Dynamic Dashboard**: Animated progress bars for category spending.
 - 🌓 **Auto Dark Mode**: Seamless theme switching.
 - 📱 **Mobile Responsive**: Perfect look on every screen size.
-  
-- 📥 **CSV Export**: Data export feature for professional use.
+  - 📥 **CSV Export**: Data export feature for professional use.
+
+     <img width="709" height="655" alt="1" src="https://github.com/user-attachments/assets/2cd5512d-5352-407b-87c5-8bc057ee2cb6" />
+     <img width="1054" height="690" alt="2" src="https://github.com/user-attachments/assets/4b1f7067-3e11-44c6-9dff-85cd396f24f1" />
+     <img width="619" height="539" alt="3" src="https://github.com/user-attachments/assets/304db2ab-2b63-4332-90e5-4e9b193d1799" />
+     <img width="592" height="554" alt="4" src="https://github.com/user-attachments/assets/bf255813-d114-432a-85b7-2033a4e093f8" />
+
 Key Technical Features:
 Dynamic Data Management: The application uses React's useState and useEffect hooks to handle real-time data updates. To ensure data persistence without a backend, I implemented Local Storage integration, allowing users to close their browser and return to find their data intact.
 Smart Budgeting System: I developed a logic-based budget monitoring system. It calculates monthly totals and provides visual feedback through a progress bar that changes color based on spending thresholds, alerting users when they exceed 80% or 100% of their limit.
